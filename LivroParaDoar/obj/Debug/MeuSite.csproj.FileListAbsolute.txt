@@ -1,0 +1,13 @@
+C:\Users\danilo.vicente\Desktop\MeuSite\MeuSite\MeuSite\bin\MeuSite.dll
+C:\Users\danilo.vicente\Desktop\MeuSite\MeuSite\MeuSite\bin\MeuSite.pdb
+C:\Users\danilo.vicente\Desktop\MeuSite\MeuSite\MeuSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danilo.vicente\Desktop\MeuSite\MeuSite\MeuSite\obj\Debug\MeuSite.dll
+C:\Users\danilo.vicente\Desktop\MeuSite\MeuSite\MeuSite\obj\Debug\MeuSite.pdb
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\obj\Debug\MeuSite.csprojResolveAssemblyReference.cache
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\obj\Debug\MeuSite.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\obj\Debug\MeuSite.pdb
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\MeuSite.dll.config
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\MeuSite.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\MeuSite.pdb
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\Newtonsoft.Json.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\Newtonsoft.Json.xml

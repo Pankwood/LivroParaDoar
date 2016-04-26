@@ -1,0 +1,23 @@
+﻿{
+    "Point": [
+        {
+            "Name": "John Stuart freed the book Sherlock Holmes - The abominable bride.",
+            "Longitude": "-113.6958063",
+            "Latitude": "36.2504196",
+            "Description": "John Stuart freed the book Sherlock Holmes - The abominable bride."
+        },
+        {
+            "Name": "Juan Soarez freed the book The petit prince.",
+            "Longitude": "-99.133209",
+            "Latitude": "19.432608",
+            "Description": "Juan Soarez freed the book The petit prince."
+        },
+        {
+            "Name": "Luis da Silva freed the book The Lord of the Rings.",
+            "Longitude": "-46.625290",
+            "Latitude": "-23.533773",
+            "Description": "Luis da Silva freed the book The Lord of the Rings."
+        }
+
+    ]
+}

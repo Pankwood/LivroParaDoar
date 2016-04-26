@@ -1,0 +1,15 @@
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\MeuSite.dll.config
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\MeuSite.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\MeuSite.pdb
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\Newtonsoft.Json.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\bin\Newtonsoft.Json.xml
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\obj\Debug\MeuSite.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\MeuSite\MeuSite\obj\Debug\MeuSite.pdb
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\bin\LivroParaDoar.dll.config
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\bin\LivroParaDoar.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\bin\LivroParaDoar.pdb
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\bin\Newtonsoft.Json.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\bin\Newtonsoft.Json.xml
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\obj\Debug\LivroParaDoar.dll
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\obj\Debug\LivroParaDoar.pdb
+C:\Users\danilo.vicente\Documents\Visual Studio 2013\Projects\MeuSite\LivroParaDoar\LivroParaDoar\obj\Debug\LivroParaDoar.csprojResolveAssemblyReference.cache
