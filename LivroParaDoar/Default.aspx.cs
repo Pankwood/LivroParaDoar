@@ -79,7 +79,6 @@ namespace LivroParaDoar
         {
             try
             {
-                int x = Convert.ToInt32("X");
                 using (StreamReader sr = new StreamReader(Server.MapPath("~/Content/Data/map.json")))
                 {
                     var map = JsonConvert.DeserializeObject<LPoint>(sr.ReadToEnd());
